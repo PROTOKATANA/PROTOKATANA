@@ -35,6 +35,7 @@
     |       |      |       |
     |       |      |       |--- SYNCFUSION-CHARTS 🌱
     |       |      |
+    |       |      |--- UI 🌱
     |       |      |
     |       |      |--- ISOLATE 🌱
     |       |      |
@@ -44,13 +45,11 @@
     |       |      |
     |       |      |--- MATH 🌱
     |       |      |
-    |       |      |--- UI 🌱
+    |       |      |--- CONVERT 🌱
     |       |      |
     |       |      |--- WEB-SCRAPPER 🌱
     |       |      |
     |       |      |--- PUPPETEER-DART 🌱
-    |       |      |
-    |       |      |--- MAILER 🌱
     |       |      |
     |       |      |--- SCRIPTING 🌱
     |       |      |        |
