@@ -47,6 +47,8 @@
     |       |      |
     |       |      |--- CONVERT 🌱
     |       |      |
+    |       |      |--- FFI
+    |       |      |
     |       |      |--- FLUTTER-RUST 🌱
     |       |      |
     |       |      |--- WEB-SCRAPPER 🌱
