@@ -29,11 +29,9 @@
     |       |      |       |
     |       |      |       |--- FLUTTER-DESKTOP-EMBEDDING 🌱
     |       |      |       |
-    |       |      |       |--- WINDOW_MANAGER 🌱
+    |       |      |       |--- WINDOW-MANAGER 🌱
     |       |      |       |
     |       |      |       |--- FLUTTER-SVG 🌱
-    |       |      |       |
-    |       |      |       |--- SYNCFUSION-CHARTS 🌱
     |       |      |
     |       |      |--- UI 🌱
     |       |      |
