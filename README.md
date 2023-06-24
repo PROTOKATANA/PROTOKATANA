@@ -47,6 +47,8 @@
     |       |      |
     |       |      |--- CONVERT 🌱
     |       |      |
+    |       |      |--- FLUTTER-RUST 🌱
+    |       |      |
     |       |      |--- WEB-SCRAPPER 🌱
     |       |      |
     |       |      |--- PUPPETEER-DART 🌱
