@@ -20,6 +20,8 @@
     |       |      |       |
     |       |      |       |--- DRAWING_ANIMATION 🌱
     |       |      |       |
+    |       |      |       |--- FLAME 🌱
+    |       |      |       |
     |       |      |       |--- VIDEOPLAYER 🌱
     |       |      |       |
     |       |      |       |--- AUDIOPLAYER 🌱
@@ -30,17 +32,18 @@
     |       |      |       |
     |       |      |       |--- IMPELLER 🌱
     |       |      |       |
-    |       |      |       |--- FLAME 🌱
-    |       |      |       |
     |       |      |       |--- RXDART 🌱
     |       |      |       |
     |       |      |       |--- PROVIDER 🌱
     |       |      |       |
-    |       |      |       |--- FLUTTER-DESKTOP-EMBEDDING 🌱
-    |       |      |       |
     |       |      |       |--- WINDOW-MANAGER 🌱
     |       |      |       |
+    |       |      |       |--- FLUTTER-DESKTOP-EMBEDDING 🌱
+    |       |      |       |
     |       |      |       |--- FLUTTER-SVG 🌱
+    |       |      |       |
+    |       |      |       |--- FLUTTER-RUST-BRIDGE 🌱
+    |       |      |
     |       |      |
     |       |      |--- UI 🌱
     |       |      |
@@ -56,12 +59,6 @@
     |       |      |
     |       |      |--- FFI
     |       |      |
-    |       |      |--- FLUTTER-RUST-BRIDGE 🌱
-    |       |      |
-    |       |      |--- WEB-SCRAPPER 🌱
-    |       |      |
-    |       |      |--- PUPPETEER-DART 🌱
-    |       |      |
     |       |      |--- SCRIPTING 🌱
     |       |      |        |
     |       |      |        |--- PROCESS-RUN 🌱
@@ -72,34 +69,19 @@
     |       |
     |       |--- RUSTC 🌱
     |       |      |
-    |       |      |--- GENERALES
-    |       |      |        |
-    |       |      |        |--- CALLYSTO 🌱
-    |       |      |        |
-    |       |      |        |--- MEILISEARCH 🌱
-    |       |      |        |
-    |       |      |        |--- RXRUST 🌱
-    |       |      |        |
-    |       |      |        |--- SERDE-JSON 🌱
-    |       |      |        |
-    |       |      |        |--- RUST-OPENSSL 🌱
-    |       |      |        |
-    |       |      |        |--- BASE64 🌱
-    |       |      |        |
-    |       |      |        |--- SUBSTRATE 🌱
-    |       |      |        |
-    |       |      |        |--- LIBP2P 🌱
+    |       |      |--- TOKIO 🌱
     |       |      |
+    |       |      |--- CALLYSTO 🌱
     |       |      |
-    |       |      |--- EJECUCION
-    |       |      |        |
-    |       |      |        |--- RAYON 🌱
-    |       |      |        |
-    |       |      |        |--- MPI 🌱
-    |       |      |        |
-    |       |      |        |--- TOKIO 🌱
-    |       |      |        |
-    |       |      |        |--- COASTER 🌱
+    |       |      |--- MEILISEARCH 🌱
+    |       |      |
+    |       |      |--- RXRUST 🌱
+    |       |      |
+    |       |      |--- SERDE-JSON 🌱
+    |       |      |
+    |       |      |--- RUST-OPENSSL 🌱
+    |       |      |
+    |       |      |--- BASE64 🌱
     |       |
     |       |
     |       |
@@ -108,11 +90,5 @@
     |       |       |--- AXUM 🌱
     |       |       |
     |       |       |--- NYM 🌱
-    |       |
-    |       |
-    |       |
-    |       |--- DATABASE
-    |       |        |
-    |       |        |--- REDIS 🌱
-    |       |        |
-    |       |        |--- SURREALDB 🌱
+    |       |       |
+    |       |       |--- REDIS 🌱
