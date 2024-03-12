@@ -24,10 +24,6 @@
     |       |      |       |
     |       |      |       |--- VIDEOPLAYER 🌱
     |       |      |       |
-    |       |      |       |--- AUDIOPLAYER 🌱
-    |       |      |       |
-    |       |      |       |--- FLUTTER-WEBRTC 🌱
-    |       |      |       |
     |       |      |       |--- DART-GSTREAMER 🌱
     |       |      |       |
     |       |      |       |--- IMPELLER 🌱
@@ -38,7 +34,13 @@
     |       |      |       |
     |       |      |       |--- WINDOW-MANAGER 🌱
     |       |      |       |
+    |       |      |       |--- FLUTTER-WEBRTC 🌱
+    |       |      |       |
+    |       |      |       |--- AUDIOPLAYER 🌱
+    |       |      |       |
     |       |      |       |--- FLUTTER-DESKTOP-EMBEDDING 🌱
+    |       |      |       |
+    |       |      |       |--- FLUTTER-NATIVE-VIEW 🌱
     |       |      |       |
     |       |      |       |--- FLUTTER-SVG 🌱
     |       |      |       |
