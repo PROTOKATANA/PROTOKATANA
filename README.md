@@ -38,6 +38,8 @@
     |       |      |       |
     |       |      |       |--- AUDIOPLAYER 🌱
     |       |      |       |
+    |       |      |       |--- FLUTTER_SECURE-STORAGE 🌱
+    |       |      |       |
     |       |      |       |--- FLUTTER-DESKTOP-EMBEDDING 🌱
     |       |      |       |
     |       |      |       |--- FLUTTER-NATIVE-VIEW 🌱
