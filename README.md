@@ -18,7 +18,7 @@
     |       |      |       |
     |       |      |       |--- MATERIAL3 🌱
     |       |      |       |
-    |       |      |       |--- DRAWING_ANIMATION 🌱
+    |       |      |       |--- DRAWING-ANIMATION 🌱
     |       |      |       |
     |       |      |       |--- FLAME 🌱
     |       |      |       |
@@ -34,7 +34,7 @@
     |       |      |       |
     |       |      |       |--- AUDIOPLAYER 🌱
     |       |      |       |
-    |       |      |       |--- FLUTTER_SECURE-STORAGE 🌱
+    |       |      |       |--- FLUTTER-SECURE-STORAGE 🌱
     |       |      |       |
     |       |      |       |--- FLUTTER-DESKTOP-EMBEDDING 🌱
     |       |      |       |
