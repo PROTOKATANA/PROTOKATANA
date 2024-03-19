@@ -28,8 +28,6 @@
     |       |      |       |
     |       |      |       |--- IMPELLER 🌱
     |       |      |       |
-    |       |      |       |--- PROVIDER 🌱
-    |       |      |       |
     |       |      |       |--- WINDOW-MANAGER 🌱
     |       |      |       |
     |       |      |       |--- FLUTTER-WEBRTC 🌱
@@ -60,6 +58,8 @@
     |       |      |--- CONVERT 🌱
     |       |      |
     |       |      |--- FFI 🌱
+    |       |      |
+    |       |      |--- RIVERPOD 🌱
     |       |      |
     |       |      |--- RXDART 🌱
     |       |      |
