@@ -99,6 +99,8 @@
     |       |      |
     |       |      |--- MEILISEARCH 🌱
     |       |      |
+    |       |      |--- CALLYSTO 🌱
+    |       |      |
     |       |      |--- RXRUST 🌱
     |       |      |
     |       |      |--- SERDE-JSON 🌱
