@@ -44,8 +44,6 @@
     |       |      |       |
     |       |      |       |--- FLUTTER-SECURE-STORAGE 🌱
     |       |      |       |
-    |       |      |       |--- FLUTTER-DESKTOP-EMBEDDING 🌱
-    |       |      |       |
     |       |      |       |--- FLUTTER-NATIVE-VIEW 🌱
     |       |      |       |
     |       |      |       |--- FLUTTER-SVG 🌱
