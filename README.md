@@ -16,8 +16,6 @@
     |       |      |
     |       |      |--- FLUTTER 🌱
     |       |      |       |
-    |       |      |       |--- MATERIAL3 🌱
-    |       |      |       |
     |       |      |       |--- DRAWING-ANIMATION 🌱
     |       |      |       |
     |       |      |       |--- FLAME 🌱
