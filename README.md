@@ -59,11 +59,11 @@
     |       |      |
     |       |      |--- ISAR 🌱
     |       |      |
-    |       |      |--- SCRIPTING 🌱
+    |       |      |--- SCRIPTING ❌
     |       |      |        |
-    |       |      |        |--- PROCESS-RUN 🌱
+    |       |      |        |--- PROCESS-RUN
     |       |      |        |
-    |       |      |        |--- SHELL 🌱
+    |       |      |        |--- SHELL
     |       |
     |       |
     |       |
