@@ -4,10 +4,6 @@
     |       |
     |       |--- C++ 🌱
     |       |     |
-    |       |     |--- GLFW 🌱
-    |       |     |
-    |       |     |--- DAXA 🌱
-    |       |     |
     |       |     |--- HIP 🌱
     |       |
     |       |
@@ -24,15 +20,13 @@
     |       |      |       |
     |       |      |       |--- DART-GSTREAMER 🌱
     |       |      |       |
-    |       |      |       |--- IMPELLER 🌱
-    |       |      |       |
     |       |      |       |--- WINDOW-MANAGER 🌱
     |       |      |       |
     |       |      |       |--- FLUTTER-WEBRTC 🌱
     |       |      |       |
     |       |      |       |--- AUDIOPLAYER 🌱
     |       |      |       |
-    |       |      |       |--- FLUTTER-SECURE-STORAGE 🌱
+    |       |      |       |--- GET-SECURE-STORAGE 🌱
     |       |      |       |
     |       |      |       |--- FLUTTER-NATIVE-VIEW 🌱
     |       |      |       |
@@ -58,12 +52,6 @@
     |       |      |--- WEBRTC 🌱
     |       |      |
     |       |      |--- ISAR 🌱
-    |       |      |
-    |       |      |--- SCRIPTING ❌
-    |       |      |        |
-    |       |      |        |--- PROCESS-RUN
-    |       |      |        |
-    |       |      |        |--- SHELL
     |       |
     |       |
     |       |
@@ -79,21 +67,23 @@
     |       |     |
     |       |     |--- NYM 🌱
     |       |     |
-    |       |     |--- MEILISEARCH 🌱
-    |       |     |
-    |       |     |--- CALLYSTO 🌱
+    |       |     |--- ARRAYFIRE 🌱
     |       |     |
     |       |     |--- RXRUST 🌱
     |       |     |
-    |       |     |--- OPENSSL 🌱
+    |       |     |--- RUST-CRYPTO 🌱
+    |       |     |
+    |       |     |--- GDEXT 🌱
     |       |
     |       |
     |       |
     |       |--- CLI 🌱
     |       |     |
-    |       |     |--- SHELL 🌱
-    |       |     |
-    |       |     |--- POWERSHELL 🌱
+    |       |     |--- RUST-CMD-LIB
+    |       |     |      |
+    |       |     |      |--- SHELL 🌱
+    |       |     |      |
+    |       |     |      |--- POWERSHELL 🌱
     |       |     |
     |       |     |--- PODMAN 🌱
     |       |
@@ -102,5 +92,9 @@
     |       |--- BACKEND 🌱
     |       |       |
     |       |       |--- REDIS 🌱
+    |       |       |
+    |       |       |--- MEILISEARCH 🌱
+    |       |       |
+    |       |       |--- CALLYSTO 🌱
 
 ---
