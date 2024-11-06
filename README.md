@@ -16,7 +16,7 @@
     |       |      |
     |       |      |--- FLUTTER 🌱
     |       |      |       |
-    |       |      |       |--- DRAWING-ANIMATION 🌱
+    |       |      |       |--- FUNVAS 🌱
     |       |      |       |
     |       |      |       |--- FLAME 🌱
     |       |      |       |
@@ -24,15 +24,11 @@
     |       |      |       |
     |       |      |       |--- FLUTTER-WEBRTC 🌱
     |       |      |       |
-    |       |      |       |--- DART-GSTREAMER 🌱
-    |       |      |       |
-    |       |      |       |--- WINDOW-MANAGER 🌱
-    |       |      |       |
     |       |      |       |--- AUDIOPLAYER 🌱
     |       |      |       |
-    |       |      |       |--- FLUTTER-NATIVE-VIEW 🌱
-    |       |      |       |
     |       |      |       |--- FLUTTER-SVG 🌱
+    |       |      |       |
+    |       |      |       |--- WINDOW-MANAGER 🌱
     |       |      |       |
     |       |      |       |--- FLUTTER-RUST-BRIDGE 🌱
     |       |      |
@@ -47,13 +43,13 @@
     |       |     |
     |       |     |--- TOKIO 🌱
     |       |     |
-    |       |     |--- AXUM 🌱
-    |       |     |
     |       |     |--- TONIC 🌱
     |       |     |
     |       |     |--- WEBRTC 🌱
     |       |     |
     |       |     |--- RUST-CRYPTO 🌱
+    |       |     |
+    |       |     |--- AXUM 🌱
     |       |
     |       |
     |       |
@@ -69,12 +65,12 @@
     |       |
     |       |--- BACKEND 🌱
     |       |       |
-    |       |       |--- REDIS 🌱
-    |       |       |
     |       |       |--- SURREALDB 🌱
     |       |       |
     |       |       |--- MEILISEARCH 🌱
     |       |       |
     |       |       |--- CALLYSTO 🌱
+    |       |       |
+    |       |       |--- REDIS 🌱
 
 ---
