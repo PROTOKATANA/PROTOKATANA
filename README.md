@@ -6,8 +6,6 @@
     |       |     |
     |       |     |--- HIP 🌱
     |       |     |
-    |       |     |--- GLSL 🌱
-    |       |     |
     |       |     |--- CMAKE 🌱
     |       |
     |       |
@@ -22,11 +20,15 @@
     |       |      |       |
     |       |      |       |--- MEDIAKIT 🌱
     |       |      |       |
+    |       |      |       |--- FLUTTER-GPU 🌱
+    |       |      |       |
     |       |      |       |--- FLUTTER-WEBRTC 🌱
     |       |      |       |
     |       |      |       |--- AUDIOPLAYER 🌱
     |       |      |       |
     |       |      |       |--- FLUTTER-SVG 🌱
+    |       |      |       |
+    |       |      |       |--- FLUTTER-GLB 🌱
     |       |      |       |
     |       |      |       |--- WINDOW-MANAGER 🌱
     |       |      |       |
@@ -49,23 +51,15 @@
     |       |     |
     |       |     |--- RUST-CRYPTO 🌱
     |       |     |
-    |       |     |--- AXUM 🌱
-    |       |
-    |       |
-    |       |
-    |       |--- CLI 🌱
+    |       |     |--- SURREAL 🌱
     |       |     |
-    |       |     |--- RUST-CMD-LIB
-    |       |     |         |
-    |       |     |         |--- SHELL 🌱
-    |       |     |         |
-    |       |     |         |--- POWERSHELL 🌱
+    |       |     |--- COCCON 🌱
+    |       |     |
+    |       |     |--- RUST-CMD-LIB 🌱
     |       |
     |       |
     |       |
     |       |--- BACKEND 🌱
-    |       |       |
-    |       |       |--- SURREALDB 🌱
     |       |       |
     |       |       |--- MEILISEARCH 🌱
     |       |       |
