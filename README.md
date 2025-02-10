@@ -16,6 +16,8 @@
     |       |     |--- ROCM-HIP 🌱
     |       |     |
     |       |     |--- CMAKE 🌱
+    |       |     |
+    |       |     |--- CAPITAN-PROTO 🌱
     |       |
     |       |
     |       |
@@ -62,6 +64,8 @@
     |       |     |--- CXX 🌱
     |       |     |
     |       |     |--- CAPITAN-PROTO 🌱
+    |       |     |
+    |       |     |--- ASYNC-STRIPE 🌱
     |       |     |
     |       |     |--- RUST-CMD-LIB 🌱
     |       |     |        |
