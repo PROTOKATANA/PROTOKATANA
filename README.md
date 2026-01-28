@@ -67,7 +67,7 @@
     |       |     |
     |       |     |--- CAPITAN-PROTO 🌱
     |       |     |
-    |       |     |--- RUST-CMD-LIB 🌱
+    |       |     |--- SHELL-CMD 🌱
     |       |     |        |
     |       |     |        |--- BASH 🌱
     |       |     |        |
